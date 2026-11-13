@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Rasyid%20Rayhan%20Novandy&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%C2%B7%20Secure%20Software%20%C2%B7%20Technical%20Leadership&descAlignY=62&descSize=19" alt="banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Information+Engineering+%E2%80%A2+Universitas+Gadjah+Mada;Cybersecurity+%E2%80%A2+Secure+Software+%E2%80%A2+Technical+Leadership;Mencari+magang+di+cybersecurity+atau+secure+software;Setiap+klaim+punya+repo+sebagai+buktinya)](https://github.com/ReyMindThink)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Cybersecurity+%E2%80%A2+Secure+Software+%E2%80%A2+Technical+Leadership;Phishing+detection+%E2%80%A2+SIEM+%E2%80%A2+Secure+SDLC;Membangun+lab+kecil+yang+berbasis+bukti;Mencari+magang+di+cybersecurity+atau+secure+software)](https://github.com/ReyMindThink)
 
 ![Mencari magang](https://img.shields.io/badge/Mencari%20magang-cybersecurity%20%2F%20secure%20software-2ea44f?style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rasyidrayhan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasyidrayhan/)
@@ -15,15 +15,23 @@
 
 ## 👋 Tentang saya
 
-Mahasiswa **Information Engineering, Universitas Gadjah Mada** (2024 – sekarang). Saya tertarik pada keamanan siber: bagaimana sistem diserang, diuji, dan dibangun agar tahan.
+Saya tertarik pada keamanan siber: **bagaimana sistem diserang, diuji, dan dibangun agar tahan.**
 
-Saya belajar dengan membangun: aplikasi web dan desktop, simulasi, dasbor IoT, dan eksperimen keamanan, baik sendiri, dalam tim, maupun bersama siswa yang saya bimbing. Di samping kode, saya memimpin orang: tim teknis dan kepanitiaan besar. Saya merencanakan dengan teliti, mendokumentasikan dengan jelas, dan menjaga keamanan sejak desain pertama.
+Saya belajar dengan membangun: aplikasi web dan desktop, simulasi, dasbor IoT, lab SIEM, dan eksperimen keamanan, baik sendiri, dalam tim, maupun bersama tim yang saya bimbing. Di samping kode, saya memimpin tim teknis. Saya merencanakan dengan teliti, mendokumentasikan dengan jelas, dan menjaga keamanan sejak desain pertama.
 
-> _Student learning cybersecurity and secure software, building small, evidence-backed projects._
+> _Learning cybersecurity and secure software by building small, evidence-backed projects._
 
 | 🔐 Cybersecurity | 🧱 Secure software | 🧭 Technical leadership |
 | :-- | :-- | :-- |
-| Secure SDLC, threat modeling, SAST / DAST, analisis phishing, lab SIEM | API backend, basis data, pengujian otomatis, CI | Memimpin tim teknis Hackathon dan kepanitiaan hingga ratusan orang |
+| Secure SDLC, threat modeling, SAST / DAST, analisis phishing, lab SIEM | API backend, basis data, pengujian otomatis, CI | Memimpin tim teknis Hackathon hingga ratusan peserta |
+
+---
+
+## 🧠 Cara saya bekerja
+
+| 🧾 Bukti dulu | 📏 Ukur sebelum dan sesudah | 🚧 Catat batasannya |
+| :-- | :-- | :-- |
+| Hasil diperlakukan sebagai hipotesis dan dicek manual. Tidak ada yang dicentang tanpa bukti. | Hardening Linux dinilai dengan audit sebelum dan sesudah perbaikan, bukan dengan perasaan. | Setiap lab mencatat kendala dan keterbatasannya, termasuk angka yang tidak layak dipercaya. |
 
 ---
 
@@ -78,12 +86,12 @@ flowchart LR
 | Proyek | Peran | Isi | Status |
 | :-- | :-- | :-- | :-- |
 | 🎣 [phishing-detection-ml](https://github.com/ReyMindThink/phishing-detection-ml) | Peneliti dan developer (solo) | TF-IDF + regresi logistik, SHAP, aplikasi Flask, pytest, GitHub Actions, rilis model dengan hash SHA256 | ![Selesai](https://img.shields.io/badge/-Selesai-2ea44f?style=flat-square) |
-| 🧪 [security-lab](https://github.com/ReyMindThink/security-lab) | Pembelajar (solo) | Lab keamanan aplikasi dalam tiga fase: secure SDLC, honeypot dan detection engineering, IoT security (opsional). Hasil diperlakukan sebagai hipotesis dan dicek manual. Belum ada temuan yang dipublikasikan | ![Berjalan](https://img.shields.io/badge/-Berjalan%20(fase%201)-d29922?style=flat-square) |
+| 🧪 [security-lab](https://github.com/ReyMindThink/security-lab) | Pembelajar (solo) | Lab keamanan aplikasi dalam tiga fase: secure SDLC, honeypot dan detection engineering, IoT security (opsional). Belum ada temuan yang dipublikasikan | ![Berjalan](https://img.shields.io/badge/-Berjalan%20(fase%201)-d29922?style=flat-square) |
 | 🎫 [PassGo](https://github.com/gadicandra/PassGo) | Team lead, backend | Platform tiket untuk komunitas kreatif: kuota tidak bisa terlampaui, QR unik per tiket, validasi di pintu masuk. Node.js, Express, MongoDB, Midtrans Snap, Supabase Storage | ![Aktif](https://img.shields.io/badge/-Aktif%20(backend)-0e75b6?style=flat-square) |
-| 🚦 [simulasi-perempatan-mm-ugm](https://github.com/ReyMindThink/simulasi-perempatan-mm-ugm) | Pencetus ide, lead developer | Simulasi berbasis agen (Python, Mesa, Streamlit) membandingkan dua aturan belok kiri. Hasil awal: waktu tunggu rata-rata −25,5%, kendaraan lolos +26,1% | ![Selesai](https://img.shields.io/badge/-Selesai-2ea44f?style=flat-square) |
+| 🚦 [Simulasi perempatan](https://github.com/ReyMindThink/simulasi-perempatan-mm-ugm) | Pencetus ide, lead developer | Simulasi berbasis agen (Python, Mesa, Streamlit) yang membandingkan dua aturan belok kiri. Hasil awal: waktu tunggu rata-rata −25,5%, kendaraan lolos +26,1% | ![Selesai](https://img.shields.io/badge/-Selesai-2ea44f?style=flat-square) |
 | 🧾 [PatunganKu](https://github.com/ReyMindThink/PatunganKu) | Cloud dan software engineer | Aplikasi patungan: basis data dan penyimpanan struk (Node.js, Express, Prisma, SQL, Docker). Azure dan verifikasi struk dengan AI baru rencana | ![Tahap awal](https://img.shields.io/badge/-Tahap%20awal-6e7681?style=flat-square) |
 | 🌱 [GreenRide](https://github.com/ReyMindThink/GreenRide) | Cloud dan software engineer | Aplikasi desktop pelacak jejak karbon perjalanan harian (C# .NET 8, PostgreSQL) | ![Dijeda](https://img.shields.io/badge/-Dijeda-6e7681?style=flat-square) |
-| 🪵 [ALoRa](https://github.com/ReyMindThink/ALORA_ASC_MAN2PONOROGO) dan 🧫 [AMBER](https://github.com/ReyMindThink/AMBER_ASC_MAN2PONOROGO) | Mentor TTG, pembuat aplikasi web pemantau | Ide dan perangkat sensor adalah karya siswa MAN 2 Ponorogo untuk ASC 2026. Bagian saya: mendampingi tim dan membangun dasbor (Vite, TypeScript, Gemini API / Firebase RTDB, Vercel) | ![ALoRa demo](https://img.shields.io/badge/-ALoRa%20demo%20aktif-2ea44f?style=flat-square) ![AMBER dijeda](https://img.shields.io/badge/-AMBER%20dijeda-6e7681?style=flat-square) |
+| 🪵 [ALoRa](https://github.com/ReyMindThink/ALORA_ASC_MAN2PONOROGO) dan 🧫 [AMBER](https://github.com/ReyMindThink/AMBER_ASC_MAN2PONOROGO) | Mentor teknis, pembuat aplikasi web pemantau | Ide dan perangkat sensor adalah karya tim binaan untuk lomba ASC 2026. Bagian saya: mendampingi tim dan membangun dasbor (Vite, TypeScript, Gemini API / Firebase RTDB, Vercel) | ![ALoRa demo](https://img.shields.io/badge/-ALoRa%20demo%20aktif-2ea44f?style=flat-square) ![AMBER dijeda](https://img.shields.io/badge/-AMBER%20dijeda-6e7681?style=flat-square) |
 
 ### 🔬 Isi repo [`cybersec`](https://github.com/ReyMindThink/cybersec) <sub>(dikerjakan November 2026)</sub>
 
@@ -107,7 +115,7 @@ flowchart LR
 
 </details>
 
-> 🔒 Semua pengujian dilakukan pada mesin atau container milik sendiri. Setiap lab mencatat kendala dan batasannya.
+> 🔒 Semua pengujian dilakukan pada mesin atau container milik sendiri.
 
 ---
 
@@ -115,12 +123,10 @@ flowchart LR
 
 | Peran | Cakupan | Skala |
 | :-- | :-- | :-- |
-| **Head of Technical Division**, Find IT! UGM 2026 (Hackathon) | Memimpin 6 orang. Mengubah Hackathon dari tugas bawa pulang menjadi maraton coding 24 jam di lokasi, lengkap dengan dokumentasi teknis, matriks penilaian, juri, dan penanganan krisis | 179 tim · 698 peserta · panitia 140 orang |
-| **Technical Division**, Find IT! UGM 2025 (Hackathon) | Konsep dan alur, guidebook, ToR, matriks penilaian, juri, sesi pitching | 84 tim · 248 peserta |
-| **Technical Division**, Technocorner UGM (IoT) | Format dan panduan lomba, form penilaian, final offline, koordinasi juri | 32 tim · 96 peserta |
-| **Trainer TTG**, ASC 2026 (Universitas Airlangga) | Membimbing dua peserta MAN 2 Ponorogo dari ide sampai prototipe bertema aksi iklim | 2 mentee · 2 prototipe |
-| **Event Supervisor**, Pramuka MAN 2 Ponorogo | Mengawasi rundown dan tim: PTA 2026 / Pramanda Art Show, PSC XVI, PSC XV | 442 peserta, panitia 66 orang (PTA 2026) · 19 tim (PSC XVI) |
-| **Staf PSDM**, UKM Tenis UGM | Pengembangan SDM klub 120+ anggota, periode 2025 dan 2026 | 120+ anggota |
+| **Head of Technical Division**, Find IT! 2026 (Hackathon) | Memimpin 6 orang. Mengubah Hackathon dari tugas bawa pulang menjadi maraton coding 24 jam di lokasi, lengkap dengan dokumentasi teknis, matriks penilaian, juri, dan penanganan krisis | 179 tim · 698 peserta · panitia 140 orang |
+| **Technical Division**, Find IT! 2025 (Hackathon) | Konsep dan alur, guidebook, ToR, matriks penilaian, juri, sesi pitching | 84 tim · 248 peserta |
+| **Technical Division**, Technocorner (IoT) | Format dan panduan lomba, form penilaian, final offline, koordinasi juri | 32 tim · 96 peserta |
+| **Mentor teknis**, ASC 2026 (teknologi tepat guna) | Mendampingi dua tim dari ide sampai prototipe bertema aksi iklim: sensor suara penebangan liar dan biofilter mikroalga | 2 tim · 2 prototipe |
 
 ---
 
@@ -175,12 +181,7 @@ flowchart LR
 
 ---
 
-## 🎓 Pendidikan dan sertifikasi
-
-| | | |
-| :-- | :-- | :-- |
-| 🎓 **Universitas Gadjah Mada** | S1 Information Engineering | 2024 – sekarang |
-| 🏫 **MAN 2 Ponorogo** | MIPA | 2021 – 2024 |
+## 📜 Sertifikasi
 
 | Sertifikasi | Penyelenggara | Waktu |
 | :-- | :-- | :-- |
@@ -194,22 +195,23 @@ flowchart LR
 
 ## 🌱 Sedang saya pelajari
 
-| Topik | Cara belajar |
+| Topik | Lewat |
 | :-- | :-- |
-| 🕸️ Pemindaian dan pengujian web (Nmap, Burp) | Latihan terpandu |
-| 🔍 Forensik dan SIEM lain (Splunk, Elastic) | Latihan terpandu |
+| 🕸️ Pemindaian dan pengujian web: Nmap, Burp Suite | Latihan terpandu |
+| 🔍 Forensik dan SIEM lain: Splunk, Elastic | Latihan terpandu |
 | 🍯 Honeypot dan detection engineering | Fase 2 [security-lab](https://github.com/ReyMindThink/security-lab) |
-
-> Ini baru rencana belajar, **belum klaim kemampuan**.
 
 ---
 
-## 📊 Statistik GitHub
+## 📊 Jejak aktivitas
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ReyMindThink&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyMindThink&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+![Repo publik](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FReyMindThink&query=%24.public_repos&label=Repo%20publik&color=0e75b6&style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/github/followers/ReyMindThink?style=for-the-badge&logo=github&label=Followers&color=203a43)
+![Bahasa utama](https://img.shields.io/github/languages/top/ReyMindThink/phishing-detection-ml?style=for-the-badge&label=Bahasa%20utama&color=3776AB)
+![Commit phishing-detection-ml](https://img.shields.io/github/commit-activity/t/ReyMindThink/phishing-detection-ml?style=for-the-badge&label=Commit%20phishing-detection-ml&color=C8321F)
+![Update terakhir cybersec](https://img.shields.io/github/last-commit/ReyMindThink/cybersec?style=for-the-badge&label=Update%20terakhir%20cybersec&color=2ea44f)
 
 </div>
 
@@ -217,7 +219,7 @@ flowchart LR
 
 ## 🤝 Mari terhubung
 
-Saya sedang mencari **magang di bidang cybersecurity atau secure software**. Kalau ingin berdiskusi tentang proyek, atau mencari mahasiswa magang yang memimpin dan membangun, silakan hubungi saya.
+Saya sedang mencari **magang di bidang cybersecurity atau secure software**. Kalau ingin berdiskusi tentang proyek, atau mencari kandidat magang yang memimpin dan membangun, silakan hubungi saya.
 
 <div align="center">
 
